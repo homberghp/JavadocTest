@@ -1,0 +1,24 @@
+--patch-module
+javadoc.test=/home/hom/build/JavadocTest2/src/main/java:/home/hom/build/JavadocTest2/target/generated-sources/annotations:/home/hom/build/JavadocTest2/src/main/docs
+-encoding
+'UTF-8'
+-protected
+-source
+'17'
+--source-path
+/home/hom/build/JavadocTest2/src/main/java:/home/hom/build/JavadocTest2/src/main/docs
+-author
+-bottom
+'Copyright &#169; 2025. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/home/hom/build/JavadocTest2/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'javadoc-test 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'javadoc-test 1.0-SNAPSHOT API'

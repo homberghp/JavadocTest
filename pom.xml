@@ -22,6 +22,7 @@
                 <version>3.8.0</version>
                 <configuration>
                     <!--<docfilessubdirs>true</docfilessubdirs>-->
+                    <debug>true</debug>
                     <javadocDirectory>${basedir}/src/main/docs</javadocDirectory>
                 </configuration>
             </plugin>

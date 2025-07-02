@@ -9,4 +9,10 @@ package com.github.abhinayagarwal;
  */
 public class API2 {
 
+    /**
+     * Create one.
+     */
+    public API2() {
+    }
+
 }
